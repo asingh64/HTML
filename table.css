@@ -1,0 +1,10 @@
+table ,th,td{border: 1px solid blue;}
+table{border-collapse: collapse;}
+td,th{text-align: center ;vertical-align: middle ;padding:30px;}
+table{padding: 20px;}
+td,th{width:20%; height:20%;}
+ #t1 th{background-color:grey;}
+#t2 td{background-color:lightyellow;}
+ #t3 td{background-color:lightyellow;}
+
+
